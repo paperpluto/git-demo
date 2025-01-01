@@ -1,2 +1,2 @@
 console.log("config");
-console.log("ver. 01");
+console.log("ver. idk01");
