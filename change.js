@@ -1,2 +1,2 @@
 console.log("change");
-console.log("ver. idk01");
+console.log("ver. idk02");
